@@ -17,4 +17,4 @@ serviceType: LoadBalancer
 # A Service can map an incoming port to any targetPort.
 # targetPort is where application is listening on inside the container.
 servicePort: 80
-serviceTargetPort: 80
+serviceTargetPort: 8080
